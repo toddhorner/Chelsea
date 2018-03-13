@@ -10,7 +10,7 @@
   - The "Shortlist" template combines photos, descriptive text, and the ability to filter by item type. [Lynwood, WA used the template to map historical sites and public art](http://lynnwoodwa.maps.arcgis.com/apps/Shortlist/index.html?appid=be2006d5382a4da5ab274b2f00e86194). Unfortunately, applications that use the shortlist template do not update dynamically. A manual update, however, is relatively easily and requires little technical knowledge.
   - The "Map Tour" template is great for presenting a spatial narrative our tour itinerary. [Tempe, AZ used the template to create a historical tour.](http://tempegov.maps.arcgis.com/apps/MapTour/index.html?appid=9dadb6c38e1c43d0b038f7046acdf4b0)
 
-### Ushahidi
+##### Ushahidi
 
 - Open source mapping tool for crowdsourcing geospatial data.
 - Free license allows for the creation of one survey.
@@ -26,6 +26,7 @@
 ### Outreach
 
 - To your knowledge, who are the key stakeholders that I should approach for data or input?
+- Is their a specific venue, event, or group that I should approach about an asset mapping workshop and platform demonstration?
 
 ### Project Scope
 
@@ -33,6 +34,6 @@
 
 ### Data
 
-- The proposed data schema can be previewed at the following Box 
-
-<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://umass.app.box.com/preview/expiring_embed/gvoct6FE!oLM2m_6OKwo-_I9otS18PoxxxULmD5PEqkZ1EBG-oLCMeBUgKK_i2xAc94mT2zbCKZgmggv2y6njo8v5SbDekTc9lHc9N8iaaie4dBatE4FSMWXw91Ryht2wyepyLA1lTwaa2yQBiy_nvZhtKR4dhheEU0PurhhhNdwqXYRyVvf1w_RF_i6wB69qSuMrWHsNggZa1wfMqyXXUc9XI3vmBkpUe9OVZGx4ppfUm9jGs1e0CH-vAc0q_Zkuqx5i4M8XgjAJHnetKuT4ADFILGBF81seaYs4yA8ylQvapA9W7W0hm5uHTyXvN5UqbbOZ2y_T8eoD1RJAh9QUyyGfDqMK7EcBFb2PHkXi1g7fRUMEjLHOxOwBUFxwrTmoOposf1ADCP7kwDwNrBnKXmKtpKMeioARwRtfxDf3Ri7QWsvfAZMFIrk7-B7F5b8h07suO9joWFJoAYXMqGsHhjugwsBigmU47tE89NV5f3YCV0oy7aplZ9jo2E5whqBcDIWzxnr_jMv_eNBX45IoGBD6am2QW605UToa8zvwoHfUKKEGb1JBM1dCNa0fELjqT5Avu6cGt1eiDV2saSjJ-etZgEpkiG0tI4YjEB0i2PMhFh2w8MWQcaH5y-gQZSWzsyIb-M_czsRn4e7B4p9PlretiTTD84aeH-TFMtwNkQxAnL1t6SpMBgd7wAz3AbRs4QLZBlMqidgXt9ReoCuOQC5mPqSpVTnGuVU_8qw-acw0Px_bWon1dN4GeutRZl1lhVP4ABRUCQjcPRFmb3i4zFqK3uB8lPNW9irXD_eGqcFBsBRGhvVp2jeVuqXWAFRyXZzqN22IBtbqa93AzQWe5h3vpQOK0MS2WIw7dOJL6jDghWWcsHbx9xTlfEA76EvlvcOTCSoLcLv6HOoRGIKPauRcyJH6XosE6-JfvglL61Ea7Rd78BFnz9jA3Pk6xUb4Xf91ba804b3QiKLN8-0rOEc825SazFpDzdwFibLGHRlG9Mxije_oXDPVoKwulrebmexHM93tin0-6WoLG6IDwyvSysmiDGdkYy4KTLizcNd2-qfRv7z7nJZDvjo0w2POcdZ10JZi31cKl8kjLrTM8PqrD3sgsiULL1pyg_QorCSnyyaIbWmqE3LNAg..?wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+- The proposed data schema can be previewed [here](https://umass.box.com/s/aqnle8x0qlhw5ka844q1thm1qcjcppku).
+- The Tufts students have already geocoded some cultural assets. Is this georeferenced data available? If so, with whom should I speak about accessing it? It's easy enough to geocode it again, but in the interest of of not duplicating work, I thought I'd ask.
+- As one individual with a limited timeframe, my capacity to do primary data collection will be limited. Which areas and asset types should I prioritize for field work?
